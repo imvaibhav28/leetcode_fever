@@ -18,6 +18,6 @@ Here is a groupby concept list for each problem:
 ---
 
 1. [1. Two Sum](https://github.com/imvaibhav28/leetcode_fever/tree/main/0001-two-sum)
-2. [15. Three sum]([https://github.com/imvaibhav28/leetcode_fever/tree/main/0002-add-two-numbers](https://github.com/imvaibhav28/leetcode_fever/tree/main/0015-3sum)
+2. [15. Three sum](https://github.com/imvaibhav28/leetcode_fever/tree/main/0015-3sum)
 3. [217 Contains Duplicate](https://github.com/imvaibhav28/leetcode_fever/tree/main/0217-contains-duplicate)
 ----
