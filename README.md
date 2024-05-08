@@ -10,6 +10,8 @@ Here is a groupby concept list for each problem:
 
 1. [find Customer Referee](https://github.com/imvaibhav28/leetcode_fever/tree/main/0584-find-customer-referee)
 2. [Recyclable and Low fat products](https://github.com/imvaibhav28/leetcode_fever/tree/main/1757-recyclable-and-low-fat-products)
+3. [1148-article-views-i](https://github.com/imvaibhav28/leetcode_fever/tree/main/1148-article-views-i)
+4. [1683-invalid-tweets](https://github.com/imvaibhav28/leetcode_fever/tree/main/1683-invalid-tweets)
 
 ### Basic Joins:
 
