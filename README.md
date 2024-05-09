@@ -6,6 +6,7 @@ Here is a groupby concept list for each problem:
 
 0.SQL:
 ----
+
 ### SELECT:
 
 1. [find Customer Referee](https://github.com/imvaibhav28/leetcode_fever/tree/main/SQL/Select/0584-find-customer-referee)
@@ -14,6 +15,7 @@ Here is a groupby concept list for each problem:
 4. [1683-invalid-tweets](https://github.com/imvaibhav28/leetcode_fever/tree/main/SQL/Select/1683-invalid-tweets)
 
 ### Basic Joins:
+
 1.[1378-replace-employee-id-with-the-unique-identifier](https://github.com/imvaibhav28/leetcode_fever/tree/main/SQL/basic_joins/1378-replace-employee-id-with-the-unique-identifier)
 2.[0197-rising-temperature](https://github.com/imvaibhav28/leetcode_fever/tree/main/SQL/basic_joins/0197-rising-temperature)
 3.[0570-managers-with-at-least-5-direct-reports](https://github.com/imvaibhav28/leetcode_fever/tree/main/SQL/basic_joins/0570-managers-with-at-least-5-direct-reports)
