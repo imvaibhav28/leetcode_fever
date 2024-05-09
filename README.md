@@ -2,7 +2,6 @@
 
 Collection of Leetcode problems:
 
-Here is a groupby concept list for each problem:
 
 0.SQL:
 ----
